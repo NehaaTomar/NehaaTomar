@@ -72,6 +72,8 @@
 </p>
 
 ---
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/NehaaTomar/NehaaTomar/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+-->
