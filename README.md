@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <em>B.Tech | Computer Science Design </em>
+  <em>Bachelor of Technology | Computer Science Design </em>
 </p>
 
 ---
@@ -57,10 +57,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [**AI Chat Assistant (VS Code Extension)**](https://github.com/NehaaTomar/vscode-ai-chat-assistant) | 🤖 A VS Code extension that chats using OpenRouter API and auto-analyzes files |
-| [**Plant Disease Detection App**](https://github.com/NehaaTomar/Plant-Disease-Detection-using-deep-learning-models-public-) | 🌿 Deep learning app that detects plant diseases using EfficientNet, ResNet, and MobileNet |
-| [**AI Sudoku Solver**](https://github.com/NehaaTomar/AI_Sudoku_Solver) | 🔢 Solves and generates Sudoku puzzles using CV + AI |
-| [**Personal Portfolio Website**](https://github.com/NehaaTomar/portfolio-website) | 🌐 A beautiful portfolio made using HTML, CSS, and JavaScript |
+| [**AI Chat Assistant (VS Code Extension)**](https://github.com/NehaaTomar/vscode-ai-chat-assistant) | A VS Code extension that chats using OpenRouter API and auto-analyzes files |
+| [**Plant Disease Detection App**](https://github.com/NehaaTomar/Plant-Disease-Detection-using-deep-learning-models-public-) | Deep learning app that detects plant diseases using EfficientNet, ResNet, and MobileNet |
+| [**AI Sudoku Solver**](https://github.com/NehaaTomar/AI_Sudoku_Solver) | Solves and generates Sudoku puzzles |
+| [**Personal Portfolio Website**](https://github.com/NehaaTomar/portfolio-website) | A beautiful portfolio made using HTML, CSS, and JavaScript |
 
 ---
 
@@ -72,8 +72,6 @@
 </p>
 
 ---
-
-<!-- Optional Snake Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/NehaaTomar/NehaaTomar/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
