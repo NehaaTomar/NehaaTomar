@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Neha Tomar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9E6DFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;C%2B%2B+%7C+Python+%7C+Full+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9E6DFF&center=true&vCenter=true&width=435&lines=Software+Developer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Tech+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" />
+
 </p>
 
 
@@ -22,13 +23,13 @@
 ## 🧰 Skills & Technologies
 
 ### 💻 Languages
-`Python` `C` `C++` `JavaScript`
+`Java` `C++` `JavaScript`
 
 ### ⚙️ Backend
-`Node.js` `Flask` `REST APIs` `OpenRouter API` `Hugging Face BLIP API`
+`Node.js` `REST APIs` `OpenRouter API` `Hugging Face BLIP API`
 
 ### 🌐 Web Development
-`HTML` `CSS` `React` `Jinja2`
+`HTML` `CSS` `Jinja2`
 
 ### 🛢️ Databases
 `MySQL` `SQLite`
